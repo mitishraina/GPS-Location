@@ -68,7 +68,7 @@ Real-Time GPS Location Tracking is a web-based application that enables users to
 
 1. Clone the repository
 ``` bash
-git clone https://github.com/GPS-location.git
+git clone https://github.com/your-folder/GPS-location.git
 ```
 
 2. Navigate to the project directory
