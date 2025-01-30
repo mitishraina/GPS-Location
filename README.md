@@ -1,10 +1,10 @@
-##Real-Time GPS Location Tracking
+# Real-Time GPS Location Tracking
 
-#Description
+## Description
 
 Real-Time GPS Location Tracking is a web-based application that enables users to track live GPS locations of vehicles or devices on an interactive map. Built with modern web technologies, the application offers a seamless and responsive experience for real-time location monitoring.
 
-##Features
+## Features
 
 Real-Time Tracking: Track live GPS locations of vehicles or devices.
 
@@ -16,7 +16,7 @@ Dynamic Rendering: Implements EJS (Embedded JavaScript) for server-side renderin
 
 Responsive Design: Optimized for both desktop and mobile devices.
 
-Technologies Used
+## Technologies Used
 
 1. Leaflet.js
 
@@ -54,7 +54,7 @@ Used to create the backend server and handle API requests.
 
 Standard web technologies used for building the frontend interface and styling.
 
-How It Works
+## How It Works
 
 The backend server receives GPS data from devices or vehicles.
 
@@ -64,29 +64,31 @@ The client-side JavaScript (using Leaflet.js) updates the map with the latest GP
 
 The map dynamically displays the live location of the tracked device or vehicle.
 
-Installation
+## Installation
 
 1. Clone the repository
-
+``` bash
 git clone https://github.com/your-repo/real-time-gps-location.git
+```
 
 2. Navigate to the project directory
-
+``` bash
 cd real-time-gps-location
-
+```
 3. Install dependencies
-
+``` bash
 npm install
-
+```
 4. Start the server
-
+``` bash
 npm start
-
+```
 5. Open the application in your browser
-
+``` bash
 http://localhost:3000
+```
 
-Usage
+## Usage
 
 Open the application in your browser.
 
@@ -97,6 +99,12 @@ Interact with the map to zoom in, zoom out, or move around.
 Dependencies
 
 Leaflet.js: For map rendering.
+
+Socket.io: For real-time communication.
+
+EJS: For server-side rendering.
+
+Express.js: For backend server setup.
 
 Socket.io: For real-time communication.
 
