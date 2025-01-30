@@ -73,7 +73,7 @@ git clone https://github.com/your-repo/GPS-location.git
 
 2. Navigate to the project directory
 ``` bash
-cd real-time-gps-location
+cd GPS-location
 ```
 3. Install dependencies
 ``` bash
