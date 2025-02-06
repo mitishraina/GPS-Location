@@ -2,7 +2,8 @@
 
 ## Description
 (A MINI PROJECT AIMED AT UNDERSTANDING HOW BIG COMAPANIES LIKE UBER, OLA, SWIGGY etc. TRACK THEIR OPERATIONS IN REAL-TIME WHILE DISPLAYING THE LIVE STATUS ON THE USER INTERFACE.)
-Real-Time GPS Location Tracking is a web-based application that enables users to track live GPS locations of their device on an interactive map. Built with modern web technologies, the application offers a seamless and responsive experience for real-time location monitoring.
+
+- Real-Time GPS Location Tracking is a web-based application that enables users to track live GPS locations of their device on an interactive map. Built with modern web technologies, the application offers a seamless and responsive experience for real-time location monitoring.
 
 ## Features
 
